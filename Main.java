@@ -19,7 +19,7 @@ public class Main {
         arbolitoAVL.insertar(1);
         arbolitoAVL.insertar(6);
         arbolitoAVL.insertar(17);
-        
+        arbolitoAVL.insertar(16);
         arbolitoAVL.preOrden(arbolitoAVL.obtenerRaiz());
     }
 }
